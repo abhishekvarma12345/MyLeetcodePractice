@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0560-subarray-sum-equals-k) |
+| [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
@@ -51,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
 ## Database
 |  |
 | ------- |
@@ -82,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
+## Sorting
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
