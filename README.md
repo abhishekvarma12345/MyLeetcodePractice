@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0937-online-stock-span](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0937-online-stock-span) |
 ## Data Stream
