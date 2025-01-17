@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0180-consecutive-numbers) |
+| [0626-exchange-seats](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0626-exchange-seats) |
 | [1278-product-price-at-a-given-date](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [2057-count-salary-categories](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2057-count-salary-categories) |
