@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0180-consecutive-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
