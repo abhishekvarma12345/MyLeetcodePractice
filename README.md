@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -65,13 +66,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0543-diameter-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
