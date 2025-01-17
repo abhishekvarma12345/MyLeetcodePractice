@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0180-consecutive-numbers) |
+| [1278-product-price-at-a-given-date](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1278-product-price-at-a-given-date) |
 ## Two Pointers
 |  |
 | ------- |
