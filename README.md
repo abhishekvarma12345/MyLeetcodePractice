@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0125-valid-palindrome) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Tree
 |  |
 | ------- |
@@ -97,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
