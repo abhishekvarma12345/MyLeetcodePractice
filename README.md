@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
