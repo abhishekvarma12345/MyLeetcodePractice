@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0907-koko-eating-bananas) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2392-successful-pairs-of-spells-and-potions) |
