@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0263-ugly-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Stack
 |  |
 | ------- |
