@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0389-find-the-difference](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0459-repeated-substring-pattern) |
 | [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
 ## Trie
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0389-find-the-difference) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
