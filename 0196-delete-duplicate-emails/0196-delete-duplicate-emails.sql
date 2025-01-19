@@ -1,9 +1,3 @@
 # Write your MySQL query statement below
-with person_copy as (
-    select * from Person
-)
-delete from Person
-where (email, id) not in (
-select email, min(id) 
-from person_copy
-group by email);
+delete p from person p, person p1
+where p.email = p1.email and p.id > p1.id;
