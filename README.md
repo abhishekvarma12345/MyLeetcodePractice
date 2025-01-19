@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0001-two-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0389-find-the-difference](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0389-find-the-difference](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0389-find-the-difference) |
 | [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
 ## Trie
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0389-find-the-difference) |
 | [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0072-edit-distance) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
