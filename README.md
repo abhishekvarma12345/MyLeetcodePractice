@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0560-subarray-sum-equals-k) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Math
 |  |
 | ------- |
