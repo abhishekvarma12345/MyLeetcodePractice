@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0389-find-the-difference](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0459-repeated-substring-pattern) |
 | [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
 ## Trie
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0392-is-subsequence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Tree
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0072-edit-distance) |
+| [0392-is-subsequence](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
