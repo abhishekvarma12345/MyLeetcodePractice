@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0263-ugly-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0392-is-subsequence) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+## Combinatorics
+|  |
+| ------- |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 <!---LeetCode Topics End-->
