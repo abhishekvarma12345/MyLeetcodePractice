@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0932-monotonic-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0392-is-subsequence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Tree
