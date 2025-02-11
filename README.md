@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0907-koko-eating-bananas) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0389-find-the-difference](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0560-subarray-sum-equals-k) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0389-find-the-difference) |
 | [1397-search-suggestions-system](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1397-search-suggestions-system) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -162,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhishekvarma12345/MyLeetcodePractice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
