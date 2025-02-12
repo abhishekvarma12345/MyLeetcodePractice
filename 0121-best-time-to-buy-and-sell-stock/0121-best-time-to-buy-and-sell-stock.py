@@ -3,11 +3,8 @@ class Solution:
         profit = 0
         maxProfit = 0
         for i in range(1, len(prices)):
-            profit += (prices[i] - prices[i-1]) 
-            if profit > 0:
-                maxProfit = max(maxProfit, profit)
-            else:
-                profit = 0
+            profit = max(0, profit + (prices[i] - prices[i-1]))
+            maxProfit = max(maxProfit, profit)
         return maxProfit
 
         
